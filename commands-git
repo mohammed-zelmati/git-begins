@@ -6,4 +6,8 @@ git clone <URL_du_repository>
    - git commit -m "Mon message de commit"
    - git push origin <nom_de_la_branche> 
 
+3- commande pull :
+git pull
+Cette commande est utilisée pour récupérer et intégrer les modifications d’un dépôt distant dans votre branche locale. 
+
 
