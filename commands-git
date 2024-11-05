@@ -1,13 +1,13 @@
-1- La commande de cloner un repository :
+1- La commande de cloner un repository est :
 git clone <URL_du_repository>
 
-2- Les trois commandes de push :
+2- Les trois commandes de push sont :
    - git add .
    - git commit -m "Mon message de commit"
    - git push origin <nom_de_la_branche> 
 
-3- commande pull :
-git pull
-Cette commande est utilisée pour récupérer et intégrer les modifications d’un dépôt distant dans votre branche locale. 
+3- commande pull est utilisée pour récupérer et intégrer les modifications d’un dépôt distant dans votre branche locale:
+   - git pull
+ 
 
 
