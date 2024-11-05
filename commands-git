@@ -8,6 +8,3 @@ git clone <URL_du_repository>
 
 3- commande pull est utilisée pour récupérer et intégrer les modifications d’un dépôt distant dans votre branche locale:
    - git pull
- 
-
-
